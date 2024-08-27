@@ -6,6 +6,6 @@ A collection and summary of my public security reviews and contributions will be
 
 
 
-| Protocol | Date | Type | Findings |
-| :---         |     :---:      |     :---:     |     :---:      |
+| Protocol           | Date       | Type                | Findings             | 
+| :----------------- | :---------:| :-----------------: | :------------------: | 
 | [Notional Leveraged Vaults](https://audits.sherlock.xyz/contests/446/report)   | July 2024     | Limit Order    | 1H     |
