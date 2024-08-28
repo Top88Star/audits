@@ -1,4 +1,4 @@
-# Smart contract security reviews and contributions
+# Smart contract security reviews
 
 A collection and summary of my public security reviews and contributions will be shared here.
 
