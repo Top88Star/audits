@@ -11,4 +11,4 @@ A collection and summary of my public security reviews and contributions will be
 | [Notional Leveraged Vaults](https://audits.sherlock.xyz/contests/446/report)   | June 2024     | Limit Order    | 1H     |
 | [Biconomy](https://solodit.xyz/issues/create-account-from-registryfactory-contract-reverts-due-to-unsorted-external-attesters-codehawks-biconomy-nexus-git)   | June 2024     |  ERC-7484    | 1L     |
 | [Zaros Part 1](https://codehawks.cyfrin.io/c/2024-07-zaros)   | July 2024     | DEX    | 1M     |
-| [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/s/105/)   | July 2024     | DEX    | 1H     |
+| [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/s/105/)   | July 2024     | Lending, Liquidity    | 1H     |
