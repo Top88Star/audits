@@ -13,3 +13,4 @@ A collection and summary of my public security reviews and contributions will be
 | [Zaros Part 1](https://codehawks.cyfrin.io/c/2024-07-zaros)        | July 2024     | DEX    | 1M     |
 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/s/105/)        | July 2024     | Lending, Liquidity    | 1H   
 | [Traitforge](https://code4rena.com/reports/2024-07-traitforge)        | July 2024     | ERC-721    | 2H  
+| ZetaChain        | July 2024     | DEX    | 1L  
