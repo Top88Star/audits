@@ -12,6 +12,6 @@ A collection and summary of my public security reviews and contributions will be
 | [Biconomy](https://solodit.xyz/issues/create-account-from-registryfactory-contract-reverts-due-to-unsorted-external-attesters-codehawks-biconomy-nexus-git)        | June 2024     |  ERC-7484    | 1L     
 | [Zaros Part 1](https://codehawks.cyfrin.io/c/2024-07-zaros)        | July 2024     | DEX    | 1M     |
 | [Tadle](https://codehawks.cyfrin.io/c/2024-08-tadle/s/105/)        | July 2024     | Lending, Liquidity    | 1H   
-| [Traitforge](https://code4rena.com/reports/2024-07-traitforge)        | July 2024     | ERC-721    | 2H  
-| ZetaChain        | July 2024     | DEX    | 1L 1M
-| [Phi](https://code4rena.com/reports/2024-08-phi)        | Sep 2024     | NFT    | 1H  
+| [Traitforge](https://code4rena.com/reports/2024-07-traitforge)        | Aug 2024     | ERC-721    | 2H  
+| ZetaChain        | Aug 2024     | DEX    | 1L 1M
+| [Phi](https://code4rena.com/reports/2024-08-phi)        | Aug 2024     | NFT    | 1H  
