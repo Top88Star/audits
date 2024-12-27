@@ -15,4 +15,3 @@ A collection and summary of my public security reviews and contributions will be
 | [Traitforge](https://code4rena.com/reports/2024-07-traitforge)        | Aug 2024     | ERC-721    | 2H  
 | ZetaChain        | Aug 2024     | DEX    | 1L 1M
 | [Phi](https://code4rena.com/reports/2024-08-phi)        | Aug 2024     | NFT    | 1H  
-| Orderly Solana Vault Contract        | Sep 2024     | Vault    | 1M  
