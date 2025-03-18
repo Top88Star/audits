@@ -15,3 +15,4 @@ A collection and summary of my public security reviews and contributions will be
 | [Traitforge](https://code4rena.com/reports/2024-07-traitforge)        | Aug 2024     | ERC-721    | 2H  
 | ZetaChain        | Aug 2024     | DEX    | 1L 1M
 | [Phi](https://code4rena.com/reports/2024-08-phi)        | Aug 2024     | NFT    | 1H  
+| [Zaros Part 2](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/results?lt=contest&page=1&sc=reward&sj=reward&t=report)        | Jan 2025     | DEX    | 1H  
