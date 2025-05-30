@@ -17,3 +17,5 @@ A collection and summary of my public security reviews and contributions will be
 | [Phi](https://code4rena.com/reports/2024-08-phi)        | Aug 2024     | NFT    | 1H  
 | [IQ AI](https://code4rena.com/audits/2025-01-iq-ai)        | Jan 2025     | DEX    | 1H  
 | [Zaros Part 2](https://codehawks.cyfrin.io/c/2025-01-zaros-part-2/results?lt=contest&page=1&sc=reward&sj=reward&t=report)        | Jan 2025     | DEX    | 1H  
+| [Core Contracts](https://codehawks.cyfrin.io/c/2025-02-raac/results)        | Feb 2025     | NFT    | 2H 4M 1L 
+
